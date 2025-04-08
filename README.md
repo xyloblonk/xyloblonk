@@ -12,7 +12,6 @@ From storefront grind to network design—my strength is quiet control.
 - 🧠 Cybersecurity, AI, Systems Architecture, Cloud Infra 
 - 🎓 Trained by Harvard, MIT, IU, Georgetown  
 - 🔗 Partnered with Epic Games, Akamai, Mojang, Tier.Net, and more  
-- 🧩 Tactical, analytical, and ruthless with inefficiencies  
 
 ## 🛠️ Tech Stack
 
