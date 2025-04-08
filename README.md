@@ -8,8 +8,8 @@ I lead with logic and execute with precision.
 From storefront grind to network design—my strength is quiet control.  
 
 **Highlights:**
-- 🏢 Founder of Hopper Studios, ranked Top 100k globally in < 5 months  
-- 🧠 Cybersecurity, AI, Systems Architecture, Cloud Infra  
+- 🏢 Founder, ranked Top 100k globally in < 5 months  
+- 🧠 Cybersecurity, AI, Systems Architecture, Cloud Infra 
 - 🎓 Trained by Harvard, MIT, IU, Georgetown  
 - 🔗 Partnered with Epic Games, Akamai, Mojang, Tier.Net, and more  
 - 🧩 Tactical, analytical, and ruthless with inefficiencies  
