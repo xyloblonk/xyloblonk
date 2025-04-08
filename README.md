@@ -1,9 +1,11 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=200&section=header&text=Xylo%20%7C%20Systems%20Architect%20%7C%20Technologist&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+<center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=200&section=header&text=Xylo%20%7C%20Systems%20Architect%20%7C%20Technologist&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=4B4453&center=true&width=435&lines=Management;Networking;Computer+Science;Cybersecurity;Artifical+Intelligence;Machine+Learning;Engineering;and+more" />
 </div>
+</center>
 
 Built different. Raised in retail, forged in tech. I don’t just solve problems, I dissect systems and rebuild them stronger.
 
