@@ -1,17 +1,13 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=200&section=header&text=Xylo%20%7C%20Systems%20Architect%20%7C%20Technologist&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=4B4453&center=true&width=435&lines=Low+Profile%2C+High+Output;Builder+of+Quiet+Systems;Calm+Head+in+High-Stakes+Ops" />
-</div>
-
----
+</div> -->
 
 # 👾 Xylo  
 **Management ▸ Networking ▸ Computer Science ▸ Cybersecurity ▸ AI/ML ▸ Engineering ▸ More**  
 Built different. Raised in retail, forged in tech. I don’t just solve problems—I dissect systems and rebuild them stronger.
-
----
 
 ## 🧠 About Me
 
@@ -24,8 +20,6 @@ From storefront grind to network design—my strength is quiet control.
 - 🎓 Trained by Harvard, MIT, IU, Georgetown  
 - 🔗 Partnered with Epic Games, Akamai, Mojang, Tier.Net, and more  
 - 🧩 Tactical, analytical, and ruthless with inefficiencies  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -40,8 +34,6 @@ From storefront grind to network design—my strength is quiet control.
 - AI/ML (Python, TensorFlow, Data Pipelines)  
 - Threat Modeling & Cyber Defense  
 - Hacking, Hosting, and System Optimization  
-
----
 
 ## 📜 Timeline
 
@@ -86,7 +78,7 @@ Data Science Foundations · Leadership & Influence
 English (Native) · Spanish (Elementary)
 
 ## 📦 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xyloblonk&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=xyloblonk&theme=graywhite&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xyloblonk&theme=github-compact&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xyloblonk&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=xyloblonk&theme=graywhite&hide_border=true" height="160"/> </p> <p align="center"> </p>
 
 ## 📡 Contact
 
