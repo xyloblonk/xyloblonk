@@ -1,64 +1,97 @@
-# 👾 Xylo
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=200&section=header&text=Xylo%20%7C%20Systems%20Architect%20%7C%20Technologist&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 
-Management ▸ Networking ▸ Computer Science ▸ Cybersecurity ▸ AI/ML ▸ Engineering ▸ More
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=4B4453&center=true&width=435&lines=Low+Profile%2C+High+Output;Builder+of+Quiet+Systems;Calm+Head+in+High-Stakes+Ops" />
+</div>
+
+---
+
+# 👾 Xylo  
+**Management ▸ Networking ▸ Computer Science ▸ Cybersecurity ▸ AI/ML ▸ Engineering ▸ More**  
 Built different. Raised in retail, forged in tech. I don’t just solve problems—I dissect systems and rebuild them stronger.
+
+---
 
 ## 🧠 About Me
 
 I lead with logic and execute with precision.  
-From managing storefront chaos to building infrastructure from the ground up, I’ve lived every layer of the stack—both in code and in life.  
+From storefront grind to network design—my strength is quiet control.  
 
 **Highlights:**
-- Founder of a company that got top 100k ranking on multiple platforms within 5 months)
-- Cybersecurity, Systems Architecture, and Cloud Infra Specialist  
-- Trained by Harvard in AI, Computer Science, Cybersecurity, and Entrepreneurship  
-- Recognized by major players: Epic Games, Akamai, Mojang, Tier.Net  
-- Tactical thinker with a hacker’s mindset and a builder’s discipline  
+- 🏢 Founder of Hopper Studios, ranked Top 100k globally in < 5 months  
+- 🧠 Cybersecurity, AI, Systems Architecture, Cloud Infra  
+- 🎓 Trained by Harvard, MIT, IU, Georgetown  
+- 🔗 Partnered with Epic Games, Akamai, Mojang, Tier.Net, and more  
+- 🧩 Tactical, analytical, and ruthless with inefficiencies  
+
+---
 
 ## 🛠️ Tech Stack
 
 **Languages**  
-▸ Python ▸ JavaScript ▸ SQL ▸ Bash ▸ Java 
-▸ Kotlin ▸ PHP ▸ Lua ▸ HTML ▸ CSS
-▸ Rust ▸ Batch ▸ Dart ▸ Go ▸ Ruby 
-▸ More
+`Python` `JavaScript` `SQL` `Bash` `Rust` `Java` `Dart` `Lua` `Go` `Kotlin` `PHP` `Ruby` `Batch` `HTML/CSS`
 
 **Frameworks / Tools**  
-▸ React ▸ Express ▸ Kubernetes ▸ Docker
-▸ Git ▸ Linux ▸ NGINX ▸ Wireshark 
-▸ More
+`React` `Docker` `Express` `Kubernetes` `Git` `Wireshark` `Linux` `NGINX`
 
 **Domains**  
-▸ Infrastructure Architecture ▸ AI/ML ▸ Cybersecurity & Threat Modeling  
-▸ Hosting ▸ Networking ▸ Hacking
-▸ More
+- Infrastructure Architecture  
+- AI/ML (Python, TensorFlow, Data Pipelines)  
+- Threat Modeling & Cyber Defense  
+- Hacking, Hosting, and System Optimization  
 
-## 🧪 Experience
+---
 
-**🧩 Enterpreneur**  
-Led ops from zero to semi public. Built relations with government agencies, developed hosting systems, AI infrastructure, and pushed into cybersecurity solutions.
+## 📜 Timeline
 
-**🍔 Retail Operations Management**  
-Customer service meets logistical chaos. I turned daily grind into operational precision using tactical math and systems thinking.
+2022:
+  - Retail Sales Specialist
+  - Restaraunt Ops Flow
+  - Harvard Computer Science Core
 
-**🎮 Contributor at Epic Games**  
-Hands-on debugging and optimization for Unreal Engine. Real engine, real stakes.
+2023:
+  - Retail Assistant Manager
+  - Concert Management: Live Event Ops
+  - Cybersecurity & AI Certs: Harvard, MITx
 
-**📦 Technical Partnerships**  
-I own a business partnered with:  
-▸ Mojang Studios ▸ Akamai ▸ Tier.Net ▸ SWITCH ▸ Ebay ▸ Fiverr
-Because real respect in tech isn’t handed out, it’s earned in output.
+2024:
+  - Restaraunt Systems & Service Ops
+  - Founded a company
+  - Crunchbase Top 100k Ranking in <5mo
+  - Started contributing to Epic Games
+
+2025:
+  - Technical Partner: Mojang, Akamai, Tier.Net, SWITCH
+  - Active Contributor to Unreal Engine
+  - Building Next-Gen Infrastructure
 
 ## 🧰 Certifications
+### 🛡️ Security & AI
 
-- 🔒 Harvard: Cybersecurity, ArtificiaL Technology & Machine Learning, Kubernetes, Data Science, Data Management, Business, SQL, Data Structures, Problem Solving
-- 🛰️ Juniper Networks - JNCIS-SP
+Computer Science · Cybersecurity · AI/ML · Kubernetes
 
-> **Test Scores**: 100s across leadership, tech support, food safety, and more.  
-> **Languages**: English (Native), Spanish (Elementary)  
+Juniper Networks JNCIS-SP · Data Management
+
+📊 Business & Data
+
+Entrepreneurship · SQL · Business
+
+Data Science Foundations · Leadership & Influence
+
+### 🧠 Scores:
+100s in Tech Support, Food Safety, Interviewing, Management, Leadership
+
+### 🌍 Languages:
+English (Native) · Spanish (Elementary)
+
+## 📦 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xyloblonk&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=xyloblonk&theme=graywhite&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xyloblonk&theme=github-compact&hide_border=true" /> </p>
 
 ## 📡 Contact
 
 - 🧠 [Portfolio Site](https://xyloblonk.xyz)  
 - 🔍 GitHub projects: See pinned repos for current obsessions  
 - 🚀 Always building, always learning, always real.
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=120&section=footer"/> </div>
