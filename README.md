@@ -7,6 +7,9 @@
 I lead with logic and execute with precision.  
 From storefront grind to network design—my strength is quiet control.  
 
+## 🧪 Live Projects
+- 🧊 [Lightweight Browser](https://github.com/xyloblonk/lightweight-browser) – <300MB RAM usage, Electron-based
+
 **Highlights:**
 - 🏢 Founder, ranked Top 100k globally in < 5 months  
 - 🧠 Cybersecurity, AI, Systems Architecture, Cloud Infra 
@@ -31,7 +34,7 @@ From storefront grind to network design—my strength is quiet control.
 
 2022:
   - Retail Sales Specialist
-  - Restaraunt Ops Flow
+  - Restaurant Ops Flow
   - Harvard Computer Science Core
 
 2023:
@@ -40,7 +43,7 @@ From storefront grind to network design—my strength is quiet control.
   - Cybersecurity & AI Certs: Harvard, MITx
 
 2024:
-  - Restaraunt Systems & Service Ops
+  - Restaurant Systems & Service Ops
   - Founded a company
   - Crunchbase Top 100k Ranking in <5mo
   - Started contributing to Epic Games
@@ -71,6 +74,9 @@ English (Native) · Spanish (Elementary)
 
 ## 📦 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xyloblonk&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=xyloblonk&theme=graywhite&hide_border=true" height="160"/> </p> <p align="center"> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xyloblonk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📡 Contact
 
