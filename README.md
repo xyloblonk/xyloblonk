@@ -1,5 +1,6 @@
 <!-- Visitor badge -->
 <center>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xyloblonk />
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=xyloblonk)
 </center>
 
