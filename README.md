@@ -6,6 +6,10 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=200&section=header&text=Xylo%20%7C%20Systems%20Architect%20%7C%20Technologist&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 
+<center>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1232580161631813683?showDisplayName=true&hideDecoration=true&animatedDecoration=false&borderRadius=10px&theme=dark)](https://discord.com/users/1232580161631813683)
+</center>
+
 > I'm a systems architect & founder building services that **move fast, stay private, and scale hard**.  
 > I've launched **8+ active businesses**, partnered with top-tier infrastructure providers, and specialize in **performance-first**, **privacy-centric** design with an anime-coded edge.  
 > **Currently:** Scaling security-hardened infra and building fast tools for real humans.
