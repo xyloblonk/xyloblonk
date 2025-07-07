@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-**Disciplines**
+**Disciplines**  
 `Red Team Tactics` `SIGINT` `Reverse Engineering` `Threat Modeling` `Kernel Debugging`
 
 **Languages**  
