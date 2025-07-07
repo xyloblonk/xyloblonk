@@ -1,3 +1,8 @@
+<!-- Visitor badge -->
+<center>
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=xyloblonk)
+</center>
+
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=200&section=header&text=Xylo%20%7C%20Systems%20Architect%20%7C%20Technologist&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 
