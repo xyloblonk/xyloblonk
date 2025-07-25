@@ -69,6 +69,7 @@
 - Building scalable, secure, performance-first infrastructure across platforms
 - Started working with the OSINT Framework for recon and intelligence gathering
 - Sold Hopper Studios/Hopper Labs for $10,000
+- Completed a soft skills training course
 
 ### 🛡️ Security & AI  Experience
 AI/ML · Cybersecurity · Kubernetes · Data Management
