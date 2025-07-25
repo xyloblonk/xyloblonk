@@ -15,8 +15,7 @@
 > I create services that **run lean, stay secure, and do more.**  
 > My stack is script-heavy, GPU-aware, and privacy-forward—no fluff, no bloat.
 
-- Started 8 companies (still active)
-- Partnered with **Epic Games**, **Akamai**, **Equinix**, **SWITCH**, **GitHub**, and **Google Bug Hunters**
+- Started 8+ companies
 - Dual-wielding systems architecture + cybersecurity with a background in AI and event ops
 - Portfolio: [**xyloblonk.xyz**](https://xyloblonk.xyz)
 
@@ -34,11 +33,11 @@
 `Red Team Tactics` `SIGINT` `Reverse Engineering` `Threat Modeling` `Kernel Debugging`
 
 **Languages**  
-`Python` `Rust` `JavaScript` `Go` `SQL` `Dart` `Lua` `Bash` `Java` `Kotlin` `PHP` `HTML/CSS`
+`JavaScript``SQL``Bash` `Java` `Kotlin` `PHP` `HTML/CSS`
 
 **Frameworks / Tools**  
 `Docker` `Kubernetes` `React` `Express` `NGINX` `Wireshark` `Linux` `Node.js` `Git`
-`OSINT Framework` `Ghidra` `Metasploit` `Burp Suite` `Custom Trojans`
+`OSINT Framework` `Ghidra` `Custom Trojans`
 
 **Domains**  
 - Infra Design · Containerization · Reverse Engineering  
@@ -53,12 +52,10 @@
 **2022**  
 - Retail Sales Specialist  
 - Restaurant Ops Flow  
-- Harvard CS Core
 
 **2023**  
 - Retail Assistant Manager  
 - Live Event Ops & Concert Management  
-- Cybersecurity & AI Certs: Harvard, MITx
 
 **2024**  
 - Restaurant Systems & Service Ops  
@@ -67,8 +64,7 @@
 - Began contributing to Epic Games
 
 **2025**  
-- Partnered with Mojang, Akamai, Tier.Net, SWITCH  
-- Contributing to Unreal Engine  
+- Contributing to the Epic Games GitHub
 - Designing next-gen infrastructure
 - Founded Tovex Inc. & Fate Services Inc.
 - Expanded into App Development, Kernel Engineering, and Security Research
@@ -76,14 +72,11 @@
 - Earned certifications in Ethical Hacking, Trojan Development, and SIGINT
 - Started working with the OSINT Framework for recon and intelligence gathering
 
-## 🧰 Certifications
-
-### 🛡️ Security & AI  
-Harvard · MIT · Georgetown · Juniper Networks JNCIS-SP
+### 🛡️ Security & AI  Experience
 AI/ML · Cybersecurity · Kubernetes · Data Management
 Ethical Hacking · Trojan Development · SIGINT Operations
 
-### 📊 Business & Data  
+### 📊 Business & Data  Experience
 Entrepreneurship · Business Strategy · SQL · Data Science Foundations  
 Leadership & Influence
 
@@ -105,10 +98,7 @@ English (Native) · Spanish (Elementary)
 
 | Partner         | Role / Focus                                  |
 |-----------------|-----------------------------------------------|
-| Epic Games      | Tools Contributor / Tech Partner              |
-| Akamai          | Network Optimization / Infra Collaboration    |
-| Mojang          | Modding & Backend Tooling                     |
-| SWITCH          | Edge Compute / Hardware Integration           |
+| Epic Games      | Contributor                                   |
 | Equinix         | Infra Scaling / Secure Hosting                |
 | GitHub          | Developer Program Member                      |
 | Google          | Bug Hunter Program / Security Research        |
