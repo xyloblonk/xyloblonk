@@ -60,7 +60,7 @@
 **2024**  
 - Restaurant Systems & Service Ops  
 - Founded a company  
-- Crunchbase Top 100k Ranking in <5mo  
+- Crunchbase Top 100k Ranking in <5mo @ https://www.crunchbase.com/organization/hopper-labs-dafd
 
 **2025**  
 - Contributing to the Epic Games GitHub
