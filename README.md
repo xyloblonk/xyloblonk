@@ -7,15 +7,15 @@
 </center>
 
 > I'm a systems architect & founder building services that **move fast, stay private, and scale hard**.  
-> I've launched **8+ active businesses**, partnered with top-tier infrastructure providers, and specialize in **performance-first**, **privacy-centric** design with an anime-coded edge.  
+> I've launched **8+ businesses**, partnered with top-tier infrastructure providers, and specialize in **performance-first**, **privacy-centric** design.  
 > **Currently:** Scaling security-hardened infra and building fast tools for real humans.
 
 ## 🧠 About Me
 
 > I create services that **run lean, stay secure, and do more.**  
-> My stack is script-heavy, GPU-aware, and privacy-forward—no fluff, no bloat.
+> My stack is Intelligent, System aware, and privacy-forward—no fluff, no bloat.
 
-- Started 8+ companies
+- Started 8+ companies (Some have flopped, some are running, some I've sold, some are just side projects I need to work on, but they do make profit ranging from $5-500/mo)
 - Dual-wielding systems architecture + cybersecurity with a background in AI and event ops
 - Portfolio: [**xyloblonk.xyz**](https://xyloblonk.xyz)
 
@@ -60,15 +60,15 @@
 **2024**  
 - Restaurant Systems & Service Ops  
 - Founded a company  
-- Crunchbase Top 100k Ranking in <5mo @ https://www.crunchbase.com/organization/hopper-labs-dafd
+- Crunchbase Top 100k Ranking in <5mo @ https://www.crunchbase.com/organization/hopper-labs-dafd (It will fluctuate, Crunchbase is AI afterall but it stays anywhere from top 50k-150k)
 
 **2025**  
 - Contributing to the Epic Games GitHub
 - Designing next-gen infrastructure
-- Founded Tovex Inc. & Fate Services Inc.
 - Expanded into App Development, Kernel Engineering, and Security Research
 - Building scalable, secure, performance-first infrastructure across platforms
 - Started working with the OSINT Framework for recon and intelligence gathering
+- Sold Hopper Studios/Hopper Labs for $10,000
 
 ### 🛡️ Security & AI  Experience
 AI/ML · Cybersecurity · Kubernetes · Data Management
@@ -97,7 +97,7 @@ English (Native) · Spanish (Elementary)
 | Partner         | Role / Focus                                  |
 |-----------------|-----------------------------------------------|
 | Epic Games      | Contributor                                   |
-| Equinix         | Infra Scaling / Secure Hosting                |
+| Tier.Net        | Hosting User                                  |
 | GitHub          | Developer Program Member                      |
 | Google          | Bug Hunter Program / Security Research        |
 
