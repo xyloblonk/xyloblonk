@@ -106,7 +106,6 @@ English (Native) · Spanish (Elementary)
 - 🕶️ **Performance-First** – I benchmark before I beautify  
 - 🔒 **Privacy-Centric** – I don’t track, I protect  
 - ⚔️ **Security-Built** – Threat models baked in from day one  
-- 🌌 **Anime-Coded** – Inspired by arcs, designed with discipline
 
 > “If it’s not open-source, GPU-accelerated, or at least fun—why run it?”
 
