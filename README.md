@@ -25,7 +25,7 @@
   _Built for speed, stripped for control._
 
 **Also involved in:**
-- Unreal Engine tooling, hosted services, threat defense systems, and scalable backend infrastructure.
+- Hosted services, threat defense systems, and scalable backend infrastructure.
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +33,7 @@
 `Red Team Tactics` `SIGINT` `Reverse Engineering` `Threat Modeling` `Kernel Debugging`
 
 **Languages**  
-`JavaScript``SQL``Bash` `Java` `Kotlin` `PHP` `HTML/CSS`
+`JavaScript` `SQL` `Bash` `Java` `Kotlin` `PHP` `HTML/CSS`
 
 **Frameworks / Tools**  
 `Docker` `Kubernetes` `React` `Express` `NGINX` `Wireshark` `Linux` `Node.js` `Git`
@@ -61,7 +61,6 @@
 - Restaurant Systems & Service Ops  
 - Founded a company  
 - Crunchbase Top 100k Ranking in <5mo  
-- Began contributing to Epic Games
 
 **2025**  
 - Contributing to the Epic Games GitHub
@@ -69,12 +68,11 @@
 - Founded Tovex Inc. & Fate Services Inc.
 - Expanded into App Development, Kernel Engineering, and Security Research
 - Building scalable, secure, performance-first infrastructure across platforms
-- Earned certifications in Ethical Hacking, Trojan Development, and SIGINT
 - Started working with the OSINT Framework for recon and intelligence gathering
 
 ### 🛡️ Security & AI  Experience
 AI/ML · Cybersecurity · Kubernetes · Data Management
-Ethical Hacking · Trojan Development · SIGINT Operations
+Ethical Hacking · SIGINT Operations
 
 ### 📊 Business & Data  Experience
 Entrepreneurship · Business Strategy · SQL · Data Science Foundations  
