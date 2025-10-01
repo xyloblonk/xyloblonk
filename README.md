@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-I create services that **run lean, stay secure, and do more.** My philosophy is intelligent, system-aware, and privacy-forward—no fluff, no bloat.
+I create services that **run lean, stay secure, and do more.** My philosophy is intelligent, system-aware, and privacy-forward.
 
 - 🚀 **Founded 8+ companies**, with successful exits and profitable side ventures.
 - ⚔️ **Dual-wielding** systems architecture and cybersecurity with a background in AI.
@@ -71,10 +71,10 @@ I create services that **run lean, stay secure, and do more.** My philosophy is 
 
 I'm always open to connecting and exploring new opportunities. Reach out if you want to collaborate on something great.
 
-- ⚙️ **Clients** — Security, optimization, performance, fullstack builds.
-- 🧠 **Collaborators** — Skilled devs, hackers, & creative engineers.
-- 💡 **Feedback** — On projects, UI/UX, architecture.
-- 🧭 **Business Partners** — For SaaS, ops-heavy startups, or niche markets.
+- ⚙️ **Clients**: Security, optimization, performance, fullstack builds.
+- 🧠 **Collaborators**: Skilled devs, hackers, & creative engineers.
+- 💡 **Feedback**: On projects, UI/UX, architecture.
+- 🧭 **Business Partners**: For SaaS, ops-heavy startups, or niche markets.
 
 <p align="center">
   <a href="mailto:xyloblonk@duck.com">
