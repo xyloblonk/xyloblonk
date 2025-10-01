@@ -17,12 +17,6 @@
 
 - Started 8+ companies (Some have flopped, some are running, some I've sold, some are just side projects I need to work on, but they do make profit ranging from $5-500/mo)
 - Dual-wielding systems architecture + cybersecurity with a background in AI and event ops
-- Portfolio: [**xyloblonk.xyz**](https://xyloblonk.xyz)
-
-## 🧪 Live Projects
-
-- 🧊 [Lightweight Browser](https://github.com/xyloblonk/lightweight-browser) – <300MB RAM usage, Electron-based  
-  _Built for speed, stripped for control._
 
 **Also involved in:**
 - Hosted services, threat defense systems, and scalable backend infrastructure.
@@ -33,19 +27,17 @@
 `Red Team Tactics` `SIGINT` `Reverse Engineering` `Threat Modeling` `Kernel Debugging`
 
 **Languages**  
-`JavaScript` `SQL` `Bash` `Java` `Kotlin` `PHP` `HTML/CSS`
+`JavaScript` `SQL` `Bash` `Java` `Kotlin` `PHP` `HTML/CSS` `Go` `Python`
 
 **Frameworks / Tools**  
 `Docker` `Kubernetes` `React` `Express` `NGINX` `Wireshark` `Linux` `Node.js` `Git`
-`OSINT Framework` `Ghidra` `Custom Trojans`
+`OSINT` `Ghidra` `Custom Trojans, Viruses & Malware` `OSSEC`
 
 **Domains**  
 - Infra Design · Containerization · Reverse Engineering  
 - Threat Modeling · AI/ML Pipelines · Performance Optimization  
-- Hacking, Hosting, System Hardening  
-
-> My daily environment is tuned with custom tooling, automation, and layered defenses.  
-> Think reverse engineering labs meets live game servers meets creative workspace—optimized, encrypted, and overclocked.
+- Hacking, Hosting, System Hardening
+- and more
 
 ## 📜 Timeline
 
@@ -70,6 +62,7 @@
 - Started working with the OSINT Framework for recon and intelligence gathering
 - Sold Hopper Studios/Hopper Labs for $10,000
 - Completed a soft skills training course
+- Started developing open source Go projects
 
 ### 🛡️ Security & AI  Experience
 AI/ML · Cybersecurity · Kubernetes · Data Management
@@ -81,9 +74,10 @@ Leadership & Influence
 
 ### 🧠 Aptitude  
 Top scores in: Tech Support · Food Safety · Interviewing · Leadership · Management
+- 
 
 ### 🌍 Languages  
-English (Native) · Spanish (Elementary)
+English (Native) · Spanish (*Very* Elementary)
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -93,7 +87,7 @@ English (Native) · Spanish (Elementary)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xyloblonk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔗 Verified Partnerships
+## 🔗 Partnerships
 
 | Partner         | Role / Focus                                  |
 |-----------------|-----------------------------------------------|
@@ -101,14 +95,6 @@ English (Native) · Spanish (Elementary)
 | Tier.Net        | Hosting User                                  |
 | GitHub          | Developer Program Member                      |
 | Google          | Bug Hunter Program / Security Research        |
-
-## 🎌 Signature Style
-
-- 🕶️ **Performance-First** – I benchmark before I beautify  
-- 🔒 **Privacy-Centric** – I don’t track, I protect  
-- ⚔️ **Security-Built** – Threat models baked in from day one  
-
-> “If it’s not open-source, GPU-accelerated, or at least fun—why run it?”
 
 ## 🤝 Let’s Build
 
@@ -118,9 +104,6 @@ I’m open to:
 - 🧠 **Collaborators** — Skilled devs, hackers, & creative engineers  
 - 💡 **Feedback** — On projects, UI/UX, architecture  
 - 🧭 **Business Partners** — For SaaS, ops-heavy startups, or niche markets
-
-> Want to talk systems, scaling, or something entirely new?  
-> → [**xyloblonk.xyz**](https://xyloblonk.xyz)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=120&section=footer"/>
