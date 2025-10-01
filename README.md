@@ -1,110 +1,89 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=200&section=header&text=Xylo%20%7C%20Systems%20Architect%20%7C%20Technologist&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Xylo%20%7C%20Systems%20Architect&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 
-<center>
-<img src="https://lanyard.cnrad.dev/api/1232580161631813683?showDisplayName=true&hideDecoration=true&animatedDecoration=false&borderRadius=10px)](https://discord.com/users/1232580161631813683" />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=xyloblonk" />
-</center>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1232580161631813683?theme=dark&borderRadius=10px&hideDecoration=true&showDisplayName=true&hideStatus=false&hideTimestamp=false)](https://discord.com/users/1232580161631813683)
 
-> I'm a systems architect & founder building services that **move fast, stay private, and scale hard**.  
-> I've launched **8+ businesses**, partnered with top-tier infrastructure providers, and specialize in **performance-first**, **privacy-centric** design.  
-> **Currently:** Scaling security-hardened infra and building fast tools for real humans.
+</div>
+
+<br>
+
+<div align="center">
+
+> ### 🚀 Building services that **move fast, stay private, and scale hard**.
+> Systems architect & founder of **8+ businesses**. I specialize in **performance-first**, **privacy-centric** design, partnering with top-tier infrastructure providers to build fast tools for real humans.
+
+</div>
+
+---
 
 ## 🧠 About Me
 
-> I create services that **run lean, stay secure, and do more.**  
-> My stack is Intelligent, System aware, and privacy-forward—no fluff, no bloat.
+I create services that **run lean, stay secure, and do more.** My philosophy is intelligent, system-aware, and privacy-forward—no fluff, no bloat.
 
-- Started 8+ companies (Some have flopped, some are running, some I've sold, some are just side projects I need to work on, but they do make profit ranging from $5-500/mo)
-- Dual-wielding systems architecture + cybersecurity with a background in AI and event ops
+- 🚀 **Founded 8+ companies**, with successful exits and profitable side ventures.
+- ⚔️ **Dual-wielding** systems architecture and cybersecurity with a background in AI.
+- 🛡️ Deeply involved in **hosted services, threat defense systems, and scalable backend infrastructure**.
 
-**Also involved in:**
-- Hosted services, threat defense systems, and scalable backend infrastructure.
+---
 
 ## 🛠️ Tech Stack
 
-**Disciplines**  
-`Red Team Tactics` `SIGINT` `Reverse Engineering` `Threat Modeling` `Kernel Debugging`
+### 🖥️ Languages
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-**Languages**  
-`JavaScript` `SQL` `Bash` `Java` `Kotlin` `PHP` `HTML/CSS` `Go` `Python`
+### 🏗️ Frameworks & Infrastructure
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-**Frameworks / Tools**  
-`Docker` `Kubernetes` `React` `Express` `NGINX` `Wireshark` `Linux` `Node.js` `Git`
-`OSINT` `Ghidra` `Custom Trojans, Viruses & Malware` `OSSEC`
+### 🛡️ Security & Analysis
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Ghidra-00C7B7?style=for-the-badge" />
 
-**Domains**  
-- Infra Design · Containerization · Reverse Engineering  
-- Threat Modeling · AI/ML Pipelines · Performance Optimization  
-- Hacking, Hosting, System Hardening
-- and more
+---
 
-## 📜 Timeline
+## 📜 Professional Journey
 
-**2022**  
-- Retail Sales Specialist  
-- Restaurant Ops Flow  
+| Year | Key Milestones |
+|------|----------------|
+| **2022** | Retail Sales Specialist; Restaurant Ops Flow |
+| **2023** | Retail Assistant Manager; Live Event Ops & Concert Management |
+| **2024** | **Founded a company**; Achieved **Crunchbase Top 100k** ranking in <5 months |
+| **2025** | **Sold Hopper Labs for $10,000**; Contributing to Epic Games; Expanded into Kernel Engineering and Security Research |
 
-**2023**  
-- Retail Assistant Manager  
-- Live Event Ops & Concert Management  
+---
 
-**2024**  
-- Restaurant Systems & Service Ops  
-- Founded a company  
-- Crunchbase Top 100k Ranking in <5mo @ https://www.crunchbase.com/organization/hopper-labs-dafd (It will fluctuate, Crunchbase is AI afterall but it stays anywhere from top 50k-150k)
+## 📈 GitHub Analytics
 
-**2025**  
-- Contributing to the Epic Games GitHub
-- Designing next-gen infrastructure
-- Expanded into App Development, Kernel Engineering, and Security Research
-- Building scalable, secure, performance-first infrastructure across platforms
-- Started working with the OSINT Framework for recon and intelligence gathering
-- Sold Hopper Studios/Hopper Labs for $10,000
-- Completed a soft skills training course
-- Started developing open source Go projects
-
-### 🛡️ Security & AI  Experience
-AI/ML · Cybersecurity · Kubernetes · Data Management
-Ethical Hacking · SIGINT Operations
-
-### 📊 Business & Data  Experience
-Entrepreneurship · Business Strategy · SQL · Data Science Foundations  
-Leadership & Influence
-
-### 🧠 Aptitude  
-Top scores in: Tech Support · Food Safety · Interviewing · Leadership · Management
-- 
-
-### 🌍 Languages  
-English (Native) · Spanish (*Very* Elementary)
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyloblonk&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xyloblonk&theme=graywhite&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xyloblonk&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xyloblonk&theme=graywhite&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyloblonk&layout=compact&theme=graywhite&hide_border=true" height="165"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xyloblonk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xyloblonk&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+</p>
 
-## 🔗 Partnerships
+---
 
-| Partner         | Role / Focus                                  |
-|-----------------|-----------------------------------------------|
-| Epic Games      | Contributor                                   |
-| Tier.Net        | Hosting User                                  |
-| GitHub          | Developer Program Member                      |
-| Google          | Bug Hunter Program / Security Research        |
+## 🤝 Let's Build Something Amazing
 
-## 🤝 Let’s Build
+I'm always open to connecting and exploring new opportunities. Reach out if you want to collaborate on something great.
 
-I’m open to:
+- ⚙️ **Clients** — Security, optimization, performance, fullstack builds.
+- 🧠 **Collaborators** — Skilled devs, hackers, & creative engineers.
+- 💡 **Feedback** — On projects, UI/UX, architecture.
+- 🧭 **Business Partners** — For SaaS, ops-heavy startups, or niche markets.
 
-- ⚙️ **Clients** — Security, optimization, performance, fullstack builds  
-- 🧠 **Collaborators** — Skilled devs, hackers, & creative engineers  
-- 💡 **Feedback** — On projects, UI/UX, architecture  
-- 🧭 **Business Partners** — For SaaS, ops-heavy startups, or niche markets
+<p align="center">
+  <a href="mailto:xyloblonk@duck.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B4453&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
