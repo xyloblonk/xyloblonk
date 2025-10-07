@@ -4,11 +4,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1232580161631813683?theme=dark&borderRadius=10px&hideDecoration=true&showDisplayName=true&hideStatus=false&hideTimestamp=false)](https://discord.com/users/1232580161631813683)
 
-</div>
-
 <br>
-
-<div align="center">
 
 > ### 🚀 Building services that **move fast, stay private, and scale hard**.
 > Systems architect & founder of **8+ businesses**. I specialize in **performance-first**, **privacy-centric** design, partnering with top-tier infrastructure providers to build fast tools for real humans.
